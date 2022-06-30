@@ -23,6 +23,7 @@ Talk to me about
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Grape](https://img.shields.io/badge/-Grape-blueviolet)
 
 
 ## Hello World!! 🤔
