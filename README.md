@@ -1,16 +1,13 @@
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h2>
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-[![Linkedin Badge](https://img.shields.io/badge/-elliotolbright-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elliotolbright/)](https://www.linkedin.com/in/elliotolbright/) 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-elliotolbright@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elliotolbright@gmail.com)](mailto:elliotolbright@gmail.com)
+
+
+
 
 Software Developer
 ## ⚡ Technologies
-Talk to me about
+
 #### Software:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
@@ -29,6 +26,8 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://terminal.turing.edu/profiles/1004)
+- [![Gmail Badge](https://img.shields.io/badge/-elliotolbright@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elliotolbright@gmail.com)](mailto:elliotolbright@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-elliotolbright-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elliotolbright/)](https://www.linkedin.com/in/elliotolbright/) 
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=elliotolbright&hide=["issues"]&show_icons=true)
