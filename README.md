@@ -8,7 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-elliotolbright@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elliotolbright@gmail.com)](mailto:elliotolbright@gmail.com)
 
-I am Elliot Olbright 😃. I am from Denver, Colorado. I graduated from University of Colorado Denver and Turing School of Software and Design I love to explore and learn about new things.
+Software Developer
 ## ⚡ Technologies
 Talk to me about
 #### Software:
